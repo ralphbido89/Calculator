@@ -1,7 +1,7 @@
 * {
     margin: 0;
     padding: 0;
-    font-family: 'Times New Roman', Times, serif;
+    font-family: Arial, Helvetica, sans-serif;
     box-sizing: border-box;
 }
 
@@ -47,6 +47,12 @@ form .display input {
     font-size: 45px;
     box-shadow: none;
 }
+
+form input.operator {
+    color: #33ffd8;
+}
+
+
 
 
 
